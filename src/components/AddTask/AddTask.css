@@ -1,0 +1,27 @@
+.form-control {
+    margin: 10px auto;
+}
+
+.add-form {
+    width: 70vw;
+    margin: 0 auto;
+}
+
+input {
+    width: 70%;
+    height: auto;
+    outline: none;
+}
+
+.check-btn {
+    width: 40%;
+}
+
+.submit-btn {
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(226, 203, 159);
+    color: rgb(0, 0, 0);
+    outline: none;
+}
